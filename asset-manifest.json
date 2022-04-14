@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lets_learn_morse_code/static/css/main.ea953149.css",
-    "main.js": "/lets_learn_morse_code/static/js/main.bfe9710c.js",
+    "main.js": "/lets_learn_morse_code/static/js/main.1d36d001.js",
     "static/js/787.efc367e6.chunk.js": "/lets_learn_morse_code/static/js/787.efc367e6.chunk.js",
     "index.html": "/lets_learn_morse_code/index.html",
     "main.ea953149.css.map": "/lets_learn_morse_code/static/css/main.ea953149.css.map",
-    "main.bfe9710c.js.map": "/lets_learn_morse_code/static/js/main.bfe9710c.js.map",
+    "main.1d36d001.js.map": "/lets_learn_morse_code/static/js/main.1d36d001.js.map",
     "787.efc367e6.chunk.js.map": "/lets_learn_morse_code/static/js/787.efc367e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea953149.css",
-    "static/js/main.bfe9710c.js"
+    "static/js/main.1d36d001.js"
   ]
 }
