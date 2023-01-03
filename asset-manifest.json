@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lets_learn_morse_code/static/css/main.aa139754.css",
-    "main.js": "/lets_learn_morse_code/static/js/main.dcec8181.js",
+    "main.css": "/lets_learn_morse_code/static/css/main.e2130cda.css",
+    "main.js": "/lets_learn_morse_code/static/js/main.b5f8c638.js",
     "static/js/787.efc367e6.chunk.js": "/lets_learn_morse_code/static/js/787.efc367e6.chunk.js",
     "index.html": "/lets_learn_morse_code/index.html",
-    "main.aa139754.css.map": "/lets_learn_morse_code/static/css/main.aa139754.css.map",
-    "main.dcec8181.js.map": "/lets_learn_morse_code/static/js/main.dcec8181.js.map",
+    "main.e2130cda.css.map": "/lets_learn_morse_code/static/css/main.e2130cda.css.map",
+    "main.b5f8c638.js.map": "/lets_learn_morse_code/static/js/main.b5f8c638.js.map",
     "787.efc367e6.chunk.js.map": "/lets_learn_morse_code/static/js/787.efc367e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa139754.css",
-    "static/js/main.dcec8181.js"
+    "static/css/main.e2130cda.css",
+    "static/js/main.b5f8c638.js"
   ]
 }
